@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with MusicService, MediaBrowserServiceCompat
 - 💬 Ask me about Android and Web Development
 - 📫 How to reach me: Email: mohdzakariya272@gmail.com, Instagram: @mz.zip 
-- ⚡ Fun fact: Road to a successful programmer is code every day
+- ⚡ Fun fact: Road to be a successful programmer is code every day
 
